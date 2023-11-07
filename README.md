@@ -6,8 +6,6 @@
 - 👯 I’m looking to collaborate on **SaaS and PaaS platforms**.
   
 - 💬 Ask me about **distributed systems, scalability, AWS, GoLang, Java, Kafka, Kubernates, SQL** etc.
-  
-- 📫 How to reach me: anshul.agraw999@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
