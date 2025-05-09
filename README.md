@@ -23,6 +23,10 @@
 
 <br/>
 
-<p>
+<!--<p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anshul619&" alt="anshul619" />
-</p>
+</p>-->
+
+<br/>
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/anshul619)
