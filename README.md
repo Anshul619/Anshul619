@@ -14,6 +14,10 @@
 
 <h3 align="left">Stats:</h3>
 
+![Leetcode Stats](https://leetcard.jacoblin.cool/anshul619)
+
+<br/>
+
 <a href="https://github.com/anshul619">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anshul619&hide_rank=true" />
 </a>
@@ -21,12 +25,7 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anshul619&layout=compact&langs_count=8&card_width=320" />
 </a>
 
-<br/>
-
 <!--<p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anshul619&" alt="anshul619" />
 </p>-->
 
-<br/>
-
-![Leetcode Stats](https://leetcard.jacoblin.cool/anshul619)
