@@ -16,12 +16,3 @@
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/anshul619)](https://leetcode.com/anshul619)
 
-<br/>
-
-<a href="https://github.com/anshul619">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anshul619&hide_rank=true" />
-</a>
-<a href="https://github.com/anshul619">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anshul619&layout=compact&langs_count=8&card_width=320" />
-</a>
-
