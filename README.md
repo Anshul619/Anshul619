@@ -16,3 +16,5 @@
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/anshul619)](https://leetcode.com/anshul619)
 
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anshul619)   
+
