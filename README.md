@@ -1,11 +1,35 @@
 <h1 align="center">Hi 👋, I'm Anshul</h1>
-<h3 align="center">A passionate backend developer</h3>
+<h3 align="center">Lead Backend Engineer · Distributed Systems · Cloud-Native Architecture</h3>
 
-- 🔭 I’m currently working on **E-commerce projects, distributed systems**.
-  
-- 👯 I’m looking to collaborate on **SaaS and PaaS platforms**.
-  
-- 💬 Ask me about **distributed systems, scalability, AWS, GoLang, Java, Python, AI Integrations, Kafka, Kubernates, SQL**.
+🔭 What I'm Working On
+
+- Scalable e-commerce backends with distributed systems patterns
+- AI/ML service integrations and agent engineering
+- Open-source knowledge repos on system design & engineering leadership
+
+👯 Looking to Collaborate On
+
+- SaaS/PaaS platforms with high throughput requirements
+- Open-source projects involving GoLang, Java, or cloud infrastructure
+
+💬 Ask Me About
+- Distributed systems
+- AI Integrations
+- System design
+- AWS
+- GoLang
+- Java
+- Python
+- Kafka
+- Kubernetes
+- SQL
+
+🛠️ Tech Stack
+- Languages: GoLang, Javam, Python, SQL
+- Messaging & Streaming: Apache Kafka
+- Cloud & Infrastructure: AWS, Kubernetes, Docker
+- Databases: PostgreSQL, Redis, DynamoDB
+- Patterns: Microservices, Event-Driven Architecture, CQRS, Domain-Driven Design
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
