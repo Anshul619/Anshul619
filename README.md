@@ -3,18 +3,18 @@
 
 🔭 What I'm Working On
 
-- Scalable e-commerce backends with distributed systems patterns
-- AI/ML service integrations and agent engineering
+- Scalable e-commerce backends with **distributed systems patterns**
+- **AI/ML service integrations** and agent engineering
 - Open-source knowledge repos on system design & engineering leadership
 
 👯 Looking to Collaborate On
 
 - SaaS/PaaS platforms with high throughput requirements
-- Open-source projects involving GoLang, Java, or cloud infrastructure
+- Open-source projects involving **GoLang**, Java, or cloud infrastructure
 
 💬 Ask Me About
-- Distributed systems
-- AI Integrations
+- **Distributed systems**
+- **AI Integrations**
 - System design
 - AWS
 - GoLang
@@ -25,11 +25,11 @@
 - SQL
 
 🛠️ Tech Stack
-- Languages: GoLang, Javam, Python, SQL
-- Messaging & Streaming: Apache Kafka
-- Cloud & Infrastructure: AWS, Kubernetes, Docker
-- Databases: PostgreSQL, Redis, DynamoDB
-- Patterns: Microservices, Event-Driven Architecture, CQRS, Domain-Driven Design
+- **Languages**: GoLang, Javam, Python, SQL
+- **Messaging & Streaming**: Apache Kafka
+- **Cloud & Infrastructur**e: AWS, Kubernetes, Docker
+- **Databases**: PostgreSQL, Redis, DynamoDB
+- **Patterns**: Microservices, Event-Driven Architecture, CQRS, Domain-Driven Design
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
